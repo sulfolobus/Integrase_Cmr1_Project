@@ -13,9 +13,9 @@ This repository contains PDB (Predicted) structure files for the Integrase Cmr1 
 - `Cmr1b_Q3V4T7_C1_RoseTTAFold2` - RoseTTAFold2 prediction
   
 ### Cmr1b_Q3V4T7_m5 - Cmr1β Mutant (Y20RF28RY29RD191R)_Q3V4T7 Variants
-- `Cmr1b_Q3V4T7_m5_AF_Online` - AlphaFold2 online prediction (m5)
-- `Cmr1b_Q3V4T7_m5_AF_Local` - AlphaFold2 local prediction (m5)
-- `Cmr1b_Q3V4T7_m5_C1_RoseTTAFold2` - RoseTTAFold2 prediction (m5)
+- `Cmr1b_Q3V4T7_m5_AF_Online` - AlphaFold2 online prediction
+- `Cmr1b_Q3V4T7_m5_AF_Local` - AlphaFold2 local prediction
+- `Cmr1b_Q3V4T7_m5_C1_RoseTTAFold2` - RoseTTAFold2 prediction
 
 ### Cmr1b_MJ0770(WT) - Cmr1β_MJ0770 Wild Type 
 - `Cmr1b_MJ0770(WT)_AF_Online` - AlphaFold2 online prediction
